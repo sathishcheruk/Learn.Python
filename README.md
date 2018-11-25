@@ -1,2 +1,2 @@
 # Learn.Python
-learn python personal usage 
+learn python.This is for my personal usage 
